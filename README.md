@@ -1,4 +1,3 @@
-# movies_data_cleaning
 
 #Movies data
 #Pyspark
